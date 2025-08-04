@@ -1,5 +1,4 @@
 # web-block
-Check out the WebBlock_Blog pdf about how I wrote the script for the website blocker.
 
 Also, here's how to use the script if you want to run it yourself (make sure you give the script executable permissions and use sudo to run it): 
 
